@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="47dd4579-c24b-4daa-abf4-b5763e7c41d5" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/eu/burak/basket/Application.scala" afterPath="$PROJECT_DIR$/src/main/scala/eu/burak/basket/Application.scala" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -659,12 +657,20 @@
       <option name="presentableId" value="Default" />
       <updated>1496418546599</updated>
       <workItem from="1496418547918" duration="1334000" />
-      <workItem from="1496420055581" duration="2129000" />
+      <workItem from="1496420055581" duration="2149000" />
     </task>
+    <task id="LOCAL-00001" summary="add gitignore">
+      <created>1496453112448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496453112448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3463000" />
+    <option name="totallyTimeSpent" value="3483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1422" height="814" extended-state="0" />
@@ -707,6 +713,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
