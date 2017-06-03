@@ -5,6 +5,8 @@
 # Simple Build Tool
 # http://www.scala-sbt.org/release/docs/Getting-Started/Directories.html#configuring-version-control
 
+**/.idea/workspace.xml
+**/.idea/tasks.xml
 dist/*
 target/
 lib_managed/

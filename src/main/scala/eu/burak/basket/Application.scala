@@ -18,6 +18,9 @@ object Application {
     lazy val lazyBespiel = preis
     preis += 3
     println(lazyBespiel)
+
+    var `keyword var` = "text"
+    println(`keyword var`)
   }
 
 }
