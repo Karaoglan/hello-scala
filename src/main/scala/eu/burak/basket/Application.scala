@@ -20,7 +20,13 @@ object Application {
     println(lazyBespiel)
 
     var `keyword var` = "text"
-    println(`keyword var`)
+
+    println(text.isInstanceOf[AnyRef])
+
+    val addFunc = (a:Int, b:Int) => a + b
+    println(addFunc(1, 3))
+
+
   }
 
 }
